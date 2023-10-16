@@ -1,2 +1,5 @@
-flirimageextractor
+opencv-python
+numpy
+matplotlib
+scipy
 
